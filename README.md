@@ -1,4 +1,4 @@
-![Banner](https://github.com/didadeeee/didadeeee/blob/main/ida_tang_github.jpg)
+![Banner](https://github.com/didadeeee/didadeeee/blob/main/ida_tang_github_1.jpg)
 
 - 🔭 I’m currently working on the Museum Project using MERN Stack.
 - 🌱 I’m currently learning [React, ... JavaScript, HTML, CSS]
