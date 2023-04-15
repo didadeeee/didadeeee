@@ -1,6 +1,6 @@
 ![Banner](https://github.com/didadeeee/didadeeee/blob/main/github.gif)
 
-- 🔭 I’m currently working on the wireframe of my latest project using MERN Stack.
+- 🔭 I’m currently working on the Sunrise Yoga project using MERN Stack.
 - 🌱 I’m currently learning [React, ... JavaScript, HTML, CSS]
 - 🤔 I’m looking for help with Career Advice!
 - 💬 Ask me about Books, Mindfulness, or Anything!
