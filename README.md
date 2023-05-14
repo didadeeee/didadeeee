@@ -5,7 +5,6 @@
 - 🤔 I’m looking for help with Career Advice!
 - 💬 Ask me about Books, Mindfulness, or Anything!
 - 📫 How to reach me: https://www.linkedin.com/in/didadeeee/
-- 😄 Pronouns: Ai-Da
 - ⚡ Fun fact: I LOVE TO TRAVEL & EAT!
 
 ## Technologies & Tools
